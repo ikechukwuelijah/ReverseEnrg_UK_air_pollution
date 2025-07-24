@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 4a. Return the date/time, station name and the highest recorded value of nitrogen oxide (NOx) found in the dataset for the year 2019.
+Task: Return the date/time, station name and the highest recorded value of nitrogen oxide (NOx) found in the dataset for the year 2019.
 """
 
 select NOX, CAST(`Date Time` AS DATETIME),location.location as Date_Time from reading,location
