@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 1b. Filter for and remove any dud records where there is no value for SiteID or there is a mismatch between SiteID and Location.
+Task: Filter for and remove any dud records where there is no value for SiteID or there is a mismatch between SiteID and Location.
 (This script should print the lines number and mismatch field values for each dud record.)
 """
 # delimeter used for seperation and low_memory because of large data
