@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 5. Model the data for a specific monitor (station) to a NoSQL data model (key-value, xml or graph) to implement the selected database type/product & pipe or import the data.
+Task: Model the data for a specific monitor (station) to a NoSQL data model (key-value, xml or graph) to implement the selected database type/product & pipe or import the data.
 
 """
 ># Introduction to mongodb
