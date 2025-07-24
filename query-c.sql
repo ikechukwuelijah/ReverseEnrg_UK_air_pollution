@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 4c. Extend the previous query to show these values for all stations in the years 2010 to 2019.
+Task: Extend the previous query to show these values for all stations in the years 2010 to 2019.
 """
 
 select location.location, AVG(`reading`.`PM2.5`) as "AVG PM2.5" , AVG(`reading`.`VPM2.5`) as "AVG VPM2.5" from  reading,location
