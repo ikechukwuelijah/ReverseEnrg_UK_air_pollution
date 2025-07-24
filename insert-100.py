@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 3b. Create a PYTHON script (insert-100.py) that generates a SQL file (insert-100.sql) that holds the first 100 inserts to the main data table.
+Task: Create a PYTHON script (insert-100.py) that generates a SQL file (insert-100.sql) that holds the first 100 inserts to the main data table.
 """
 
 import sys
