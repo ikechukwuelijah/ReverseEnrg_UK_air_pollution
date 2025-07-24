@@ -1,6 +1,5 @@
 """
-@author: 21076682
-Task 3a. Design, write, & test a PYTHON script (populate.py) that takes the cleaned CSV file as input and creates a new database instance (pollution-db2) and populates it.
+Task: Design, write, & test a PYTHON script (populate.py) that takes the cleaned CSV file as input and creates a new database instance (pollution-db2) and populates it.
 """
 # import lib
 import mysql.connector
