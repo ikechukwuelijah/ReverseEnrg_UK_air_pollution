@@ -1,7 +1,7 @@
 #"""
-#@author: 21076682
 
-#Task 1a. Crop the file to delete any records before 00:00 1 Jan 2010 (1262304000).
+
+#Task: Crop the file to delete any records before 00:00 1 Jan 2010 (1262304000).
 #"""
 
 
