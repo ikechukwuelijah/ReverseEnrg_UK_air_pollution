@@ -11,11 +11,14 @@ This project reverse-engineers air quality data pipelines for the United Kingdom
 
 ## 🧰 Tech Stack
 
-- Python for ETL logic
-- Requests + Pandas for data wrangling
-- PostgreSQL as destination data store
-- Airflow for DAG orchestration
-- SQLAlchemy for DB integration
-- Document nosql
-
-## 🔄 Pipeline Flow
+| Component        | Purpose                        |
+|------------------|--------------------------------|
+| Python           | Core ETL logic and scripting               |
+| Requests         | HTTP client for API interaction                |
+| Pandas           | Data wrangling, transformation, and cleaning   |
+| SQLAlchemy       | Database ORM and connectivity abstraction           |
+| PostgreSQL       | Data warehouse / structured data storage               |
+| Apache Airflow   |Workflow orchestration and DAG scheduling |
+| Metabase       	 | Business Intelligence (BI) & data visualization |
+| Linus	Server     | Hosting / runtime environment|
+| Github	         |Version control and CI/CD pipelines                              |
